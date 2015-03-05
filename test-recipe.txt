@@ -1,0 +1,22 @@
+Test-Recipe
+
+Ingredients:
+1. Dough
+2. Pizza Sauce
+3. Mozzela Cheese
+4. Pepporini
+5. Sausage
+6. Canadien Bacon
+
+Instructions:
+1. Roll out dough in to circle
+2. Add sauce on dough
+3. Add cheese
+4. Add pepporoni
+5. Add Sausage
+6. Add Canadian Bacon
+
+1. Preheat over to 425 degrees
+2. Cook pizza for 12-16 minutes (or until crust is brown)
+3. Cut in to slices
+4. Enjoy!
